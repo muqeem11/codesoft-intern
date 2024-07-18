@@ -1,4 +1,4 @@
-// let display = document.getElementById('display');
+
 let buttons = document.querySelectorAll('button');
 let operator = '';
 let num1 = '';
